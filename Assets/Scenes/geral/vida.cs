@@ -4,15 +4,19 @@ public class Vida : MonoBehaviour
 {
     public int vidaMaxima = 100;
     public int vidaAtual;
-    private Rigidbody2D rb;
+    public bool morto = false;
 
     void Start()
     {
         vidaAtual = vidaMaxima;
+        morto = false;
     }
 
     public void ReceberDano(int dano)
     {
+        if (morto)
+            return;
+
         vidaAtual -= dano;
 
         Debug.Log(gameObject.name + " recebeu " + dano + " de dano");
@@ -25,8 +29,15 @@ public class Vida : MonoBehaviour
 
     void Morrer()
     {
-        Debug.Log(gameObject.name + " morreu");
+        morto = true;
 
-        Destroy(gameObject);
+        TelaMorte tela = FindAnyObjectByType<TelaMorte>();
+
+        if (tela != null)
+        {
+            tela.MostrarTelaMorte();
+        }
+
+        Time.timeScale = 0f;
     }
 }

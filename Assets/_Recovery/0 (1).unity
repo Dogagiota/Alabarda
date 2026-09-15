@@ -605,7 +605,6 @@ GameObject:
   m_Component:
   - component: {fileID: 679860320}
   - component: {fileID: 679860322}
-  - component: {fileID: 679860321}
   m_Layer: 5
   m_Name: vcmorreu_0
   m_TagString: Untagged
@@ -628,19 +627,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1938134170}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &679860321
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 679860319}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 08f17a53096e6ccafa8f151c75ce872c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  vcmorreu_0: {fileID: 679860319}
 --- !u!212 &679860322
 SpriteRenderer:
   serializedVersion: 2
@@ -1037,7 +1023,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   vidaMaxima: 100
   vidaAtual: 0
-  morto: 0
 --- !u!114 &726273332
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1455,7 +1440,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Vida
   vidaMaxima: 100
   vidaAtual: 0
-  morto: 0
 --- !u!95 &990863877
 Animator:
   serializedVersion: 7
