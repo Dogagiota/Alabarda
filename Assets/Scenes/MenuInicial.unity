@@ -497,7 +497,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc7ccaa7698415fc0b56c7b68efae7a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TrocarCena
-  nomeCena: informacoes
+  nomeCena: info
 --- !u!1 &303695486
 GameObject:
   m_ObjectHideFlags: 0
