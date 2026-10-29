@@ -1,20 +1,24 @@
+
 using UnityEngine;
 
 public class TelaMorte : MonoBehaviour
 {
     public GameObject vcmorreu_0;
-
-    private SpriteRenderer spriteRenderer;
+    public GameObject botaoReiniciar;
+    public GameObject botaomMenu;
 
     void Start()
     {
-        spriteRenderer = vcmorreu_0.GetComponent<SpriteRenderer>();
-        spriteRenderer.enabled = false;
+        vcmorreu_0.SetActive(false);
+        botaoReiniciar.SetActive(false);
+        botaomMenu.SetActive(false);
     }
 
     public void MostrarTelaMorte()
     {
-        spriteRenderer.enabled = true;
+        vcmorreu_0.SetActive(true);
+        botaoReiniciar.SetActive(true);
+        botaomMenu.SetActive(true);
         Time.timeScale = 0f;
     }
 }

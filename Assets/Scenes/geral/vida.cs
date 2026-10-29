@@ -31,11 +31,23 @@ public class Vida : MonoBehaviour
     {
         morto = true;
 
-        TelaMorte tela = FindAnyObjectByType<TelaMorte>();
-
-        if (tela != null)
+        if (gameObject.name == "Guilherme")
         {
-            tela.MostrarTelaMorte();
+            TelaWin telaWin = FindAnyObjectByType<TelaWin>();
+
+            if (telaWin != null)
+            {
+                telaWin.MostrarTelaWin();
+            }
+        }
+        else
+        {
+            TelaMorte telaMorte = FindAnyObjectByType<TelaMorte>();
+
+            if (telaMorte != null)
+            {
+                telaMorte.MostrarTelaMorte();
+            }
         }
 
         Time.timeScale = 0f;
