@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 874b221e114543142b3b37a6b9903250
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3147246261759503033
+    second: armadura_de_couro_0
+  - first:
+      213: 5032288194945340200
+    second: armadura_de_couro_1
+  - first:
+      213: -8683190980239827915
+    second: armadura_de_couro_2
+  - first:
+      213: 1809087087150249055
+    second: armadura_de_couro_3
+  - first:
+      213: -6942313780778191390
+    second: armadura_de_couro_4
+  - first:
+      213: -7224822407308201081
+    second: armadura_de_couro_5
+  - first:
+      213: 5102430259461570413
+    second: armadura_de_couro_6
+  - first:
+      213: 5508702936506701265
+    second: armadura_de_couro_7
+  - first:
+      213: -199926046618780420
+    second: armadura_de_couro_8
+  - first:
+      213: -3352043111113381775
+    second: armadura_de_couro_9
+  - first:
+      213: 1138375733599942775
+    second: armadura_de_couro_10
+  - first:
+      213: -697547262828588469
+    second: armadura_de_couro_11
+  - first:
+      213: -3877834091713671159
+    second: armadura_de_couro_12
+  - first:
+      213: -5950067395890630854
+    second: armadura_de_couro_13
+  - first:
+      213: 7917929535277441479
+    second: armadura_de_couro_14
+  - first:
+      213: 8096271679900520960
+    second: armadura_de_couro_15
+  - first:
+      213: -494520436635407955
+    second: armadura_de_couro_16
+  - first:
+      213: 1886888881458056029
+    second: armadura_de_couro_17
+  - first:
+      213: -2770788912597098181
+    second: armadura_de_couro_18
+  - first:
+      213: -862506236498792869
+    second: armadura_de_couro_19
+  - first:
+      213: -4343064774285106127
+    second: armadura_de_couro_20
+  - first:
+      213: -939947658193247182
+    second: armadura_de_couro_21
+  - first:
+      213: -3242529736671539274
+    second: armadura_de_couro_22
+  - first:
+      213: -1961352110251650755
+    second: armadura_de_couro_23
+  - first:
+      213: -422838693305709691
+    second: armadura_de_couro_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: armadura_de_couro_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bae9dcdcc34dab20800000000000000
+      internalID: 3147246261759503033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e803042e23b705032827928704ac8686
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      armadura_de_couro_0: 3147246261759503033
+      armadura_de_couro_1: 5032288194945340200
+      armadura_de_couro_10: 1138375733599942775
+      armadura_de_couro_11: -697547262828588469
+      armadura_de_couro_12: -3877834091713671159
+      armadura_de_couro_13: -5950067395890630854
+      armadura_de_couro_14: 7917929535277441479
+      armadura_de_couro_15: 8096271679900520960
+      armadura_de_couro_16: -494520436635407955
+      armadura_de_couro_17: 1886888881458056029
+      armadura_de_couro_18: -2770788912597098181
+      armadura_de_couro_19: -862506236498792869
+      armadura_de_couro_2: -8683190980239827915
+      armadura_de_couro_20: -4343064774285106127
+      armadura_de_couro_21: -939947658193247182
+      armadura_de_couro_22: -3242529736671539274
+      armadura_de_couro_23: -1961352110251650755
+      armadura_de_couro_24: -422838693305709691
+      armadura_de_couro_3: 1809087087150249055
+      armadura_de_couro_4: -6942313780778191390
+      armadura_de_couro_5: -7224822407308201081
+      armadura_de_couro_6: 5102430259461570413
+      armadura_de_couro_7: 5508702936506701265
+      armadura_de_couro_8: -199926046618780420
+      armadura_de_couro_9: -3352043111113381775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: e68c1e8e8b918ef88bcea42bec472d49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8657105234088552671
+    second: Pixel-Art Mountain Tile Sprite Sheet(2)_0
+  - first:
+      213: -6098504076900334343
+    second: Pixel-Art Mountain Tile Sprite Sheet(2)_1
+  - first:
+      213: -65856549141487716
+    second: Pixel-Art Mountain Tile Sprite Sheet(2)_2
+  - first:
+      213: -1966520778499189754
+    second: Pixel-Art Mountain Tile Sprite Sheet(2)_3
+  - first:
+      213: 4038598850591605975
+    second: Pixel-Art Mountain Tile Sprite Sheet(2)_4
+  - first:
+      213: 5273019673831416457
+    second: Pixel-Art Mountain Tile Sprite Sheet(2)_5
+  - first:
+      213: 9088957144791952507
+    second: Pixel-Art Mountain Tile Sprite Sheet(2)_6
+  - first:
+      213: 597906769905376955
+    second: Pixel-Art Mountain Tile Sprite Sheet(2)_7
+  - first:
+      213: 7452318890090203806
+    second: Pixel-Art Mountain Tile Sprite Sheet(2)_8
+  - first:
+      213: 5343293354613294570
+    second: Pixel-Art Mountain Tile Sprite Sheet(2)_9
+  - first:
+      213: -5549798213894603290
+    second: Pixel-Art Mountain Tile Sprite Sheet(2)_10
+  - first:
+      213: 844128456162112456
+    second: Pixel-Art Mountain Tile Sprite Sheet(2)_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel-Art Mountain Tile Sprite Sheet(2)_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 673
+        width: 443
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8e505d757342870800000000000000
+      internalID: 8657105234088552671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art Mountain Tile Sprite Sheet(2)_1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 676
+        width: 510
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f485137ad2cd5ba0800000000000000
+      internalID: -6098504076900334343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art Mountain Tile Sprite Sheet(2)_2
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 676
+        width: 276
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fd94641d7061ff0800000000000000
+      internalID: -65856549141487716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art Mountain Tile Sprite Sheet(2)_3
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 679
+        width: 253
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604912265c385b4e0800000000000000
+      internalID: -1966520778499189754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art Mountain Tile Sprite Sheet(2)_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 366
+        width: 342
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d440d7d14cfb0830800000000000000
+      internalID: 4038598850591605975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art Mountain Tile Sprite Sheet(2)_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 14
+        width: 339
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9822e58a4778d2940800000000000000
+      internalID: 5273019673831416457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art Mountain Tile Sprite Sheet(2)_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 368
+        width: 446
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ca21a2e56722e70800000000000000
+      internalID: 9088957144791952507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art Mountain Tile Sprite Sheet(2)_7
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 373
+        width: 349
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbed2051a013c4800800000000000000
+      internalID: 597906769905376955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art Mountain Tile Sprite Sheet(2)_8
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 372
+        width: 373
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a82c4eb84fb6760800000000000000
+      internalID: 7452318890090203806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art Mountain Tile Sprite Sheet(2)_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 14
+        width: 457
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae54e6cfef0372a40800000000000000
+      internalID: 5343293354613294570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art Mountain Tile Sprite Sheet(2)_10
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 14
+        width: 369
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edf6b5bde72bf2b0800000000000000
+      internalID: -5549798213894603290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art Mountain Tile Sprite Sheet(2)_11
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 14
+        width: 338
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c37756cb52f6bb00800000000000000
+      internalID: 844128456162112456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pixel-Art Mountain Tile Sprite Sheet(2)_0: 8657105234088552671
+      Pixel-Art Mountain Tile Sprite Sheet(2)_1: -6098504076900334343
+      Pixel-Art Mountain Tile Sprite Sheet(2)_10: -5549798213894603290
+      Pixel-Art Mountain Tile Sprite Sheet(2)_11: 844128456162112456
+      Pixel-Art Mountain Tile Sprite Sheet(2)_2: -65856549141487716
+      Pixel-Art Mountain Tile Sprite Sheet(2)_3: -1966520778499189754
+      Pixel-Art Mountain Tile Sprite Sheet(2)_4: 4038598850591605975
+      Pixel-Art Mountain Tile Sprite Sheet(2)_5: 5273019673831416457
+      Pixel-Art Mountain Tile Sprite Sheet(2)_6: 9088957144791952507
+      Pixel-Art Mountain Tile Sprite Sheet(2)_7: 597906769905376955
+      Pixel-Art Mountain Tile Sprite Sheet(2)_8: 7452318890090203806
+      Pixel-Art Mountain Tile Sprite Sheet(2)_9: 5343293354613294570
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

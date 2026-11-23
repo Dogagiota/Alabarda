@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 23f0fbebb3567d1a9a821e7aadaca392
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8975061638541615829
+    second: armadura_de_placa_0
+  - first:
+      213: 5553583470516413486
+    second: armadura_de_placa_1
+  - first:
+      213: 201498780810942681
+    second: armadura_de_placa_2
+  - first:
+      213: 2057150722832541756
+    second: armadura_de_placa_3
+  - first:
+      213: 2981832330865275351
+    second: armadura_de_placa_4
+  - first:
+      213: -245554148517068244
+    second: armadura_de_placa_5
+  - first:
+      213: 4739762179249532891
+    second: armadura_de_placa_6
+  - first:
+      213: 8324498091160273023
+    second: armadura_de_placa_7
+  - first:
+      213: -4156951388549114413
+    second: armadura_de_placa_8
+  - first:
+      213: -41629678899438719
+    second: armadura_de_placa_9
+  - first:
+      213: -3786866124925834296
+    second: armadura_de_placa_10
+  - first:
+      213: 7992829106626401617
+    second: armadura_de_placa_11
+  - first:
+      213: 9197449636382631111
+    second: armadura_de_placa_12
+  - first:
+      213: -3363990021331592804
+    second: armadura_de_placa_13
+  - first:
+      213: 4167112857124342276
+    second: armadura_de_placa_14
+  - first:
+      213: -716938972010039120
+    second: armadura_de_placa_15
+  - first:
+      213: -4711950950025440097
+    second: armadura_de_placa_16
+  - first:
+      213: -3430803453401192522
+    second: armadura_de_placa_17
+  - first:
+      213: 1405986714281827038
+    second: armadura_de_placa_18
+  - first:
+      213: -3117532257832165842
+    second: armadura_de_placa_19
+  - first:
+      213: 6951110422010295201
+    second: armadura_de_placa_20
+  - first:
+      213: -150423722017100455
+    second: armadura_de_placa_21
+  - first:
+      213: -4023357728538131733
+    second: armadura_de_placa_22
+  - first:
+      213: 6765533591641104932
+    second: armadura_de_placa_23
+  - first:
+      213: 9191252958429209878
+    second: armadura_de_placa_24
+  - first:
+      213: 5486836064742973223
+    second: armadura_de_placa_25
+  - first:
+      213: 1992598656256958041
+    second: armadura_de_placa_26
+  - first:
+      213: 3208521347503685027
+    second: armadura_de_placa_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: armadura_de_placa_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ddd7dddfc227380800000000000000
+      internalID: -8975061638541615829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 68aeb4a58b8a63e79aaac77e67aa2f13
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      armadura_de_placa_0: -8975061638541615829
+      armadura_de_placa_1: 5553583470516413486
+      armadura_de_placa_10: -3786866124925834296
+      armadura_de_placa_11: 7992829106626401617
+      armadura_de_placa_12: 9197449636382631111
+      armadura_de_placa_13: -3363990021331592804
+      armadura_de_placa_14: 4167112857124342276
+      armadura_de_placa_15: -716938972010039120
+      armadura_de_placa_16: -4711950950025440097
+      armadura_de_placa_17: -3430803453401192522
+      armadura_de_placa_18: 1405986714281827038
+      armadura_de_placa_19: -3117532257832165842
+      armadura_de_placa_2: 201498780810942681
+      armadura_de_placa_20: 6951110422010295201
+      armadura_de_placa_21: -150423722017100455
+      armadura_de_placa_22: -4023357728538131733
+      armadura_de_placa_23: 6765533591641104932
+      armadura_de_placa_24: 9191252958429209878
+      armadura_de_placa_25: 5486836064742973223
+      armadura_de_placa_26: 1992598656256958041
+      armadura_de_placa_27: 3208521347503685027
+      armadura_de_placa_3: 2057150722832541756
+      armadura_de_placa_4: 2981832330865275351
+      armadura_de_placa_5: -245554148517068244
+      armadura_de_placa_6: 4739762179249532891
+      armadura_de_placa_7: 8324498091160273023
+      armadura_de_placa_8: -4156951388549114413
+      armadura_de_placa_9: -41629678899438719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

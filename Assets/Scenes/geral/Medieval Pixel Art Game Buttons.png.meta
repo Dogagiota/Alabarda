@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 7fca3dc72285e58b89460de14bce8eed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5722272150679806289
+    second: Medieval Pixel Art Game Buttons_0
+  - first:
+      213: 5174264983045903182
+    second: Medieval Pixel Art Game Buttons_1
+  - first:
+      213: 5209298239998524013
+    second: Medieval Pixel Art Game Buttons_2
+  - first:
+      213: -3304591795544848288
+    second: Medieval Pixel Art Game Buttons_3
+  - first:
+      213: -7080026174242702768
+    second: Medieval Pixel Art Game Buttons_4
+  - first:
+      213: -8904560516772453606
+    second: Medieval Pixel Art Game Buttons_5
+  - first:
+      213: -8024400357752695064
+    second: Medieval Pixel Art Game Buttons_6
+  - first:
+      213: 3265626562579486087
+    second: Medieval Pixel Art Game Buttons_7
+  - first:
+      213: 7654557171360404009
+    second: Medieval Pixel Art Game Buttons_8
+  - first:
+      213: -8465581914232272237
+    second: Medieval Pixel Art Game Buttons_9
+  - first:
+      213: -7507956322547378007
+    second: Medieval Pixel Art Game Buttons_10
+  - first:
+      213: -8920648934358110610
+    second: Medieval Pixel Art Game Buttons_11
+  - first:
+      213: -4104750589460059451
+    second: Medieval Pixel Art Game Buttons_12
+  - first:
+      213: 5233160356209838090
+    second: Medieval Pixel Art Game Buttons_13
+  - first:
+      213: 1326975129760789185
+    second: Medieval Pixel Art Game Buttons_14
+  - first:
+      213: -8683421418989114410
+    second: Medieval Pixel Art Game Buttons_15
+  - first:
+      213: 2918721237353336392
+    second: Medieval Pixel Art Game Buttons_16
+  - first:
+      213: 647455575309126549
+    second: Medieval Pixel Art Game Buttons_17
+  - first:
+      213: -416518240065763834
+    second: Medieval Pixel Art Game Buttons_18
+  - first:
+      213: -6265646975716552406
+    second: Medieval Pixel Art Game Buttons_19
+  - first:
+      213: -940889232638780620
+    second: Medieval Pixel Art Game Buttons_20
+  - first:
+      213: -3789670356356214105
+    second: Medieval Pixel Art Game Buttons_21
+  - first:
+      213: -9089411061674379600
+    second: Medieval Pixel Art Game Buttons_22
+  - first:
+      213: -5456234792135458656
+    second: Medieval Pixel Art Game Buttons_23
+  - first:
+      213: 7042203157320507640
+    second: Medieval Pixel Art Game Buttons_24
+  - first:
+      213: 675703076176148941
+    second: Medieval Pixel Art Game Buttons_25
+  - first:
+      213: 4100568348764059918
+    second: Medieval Pixel Art Game Buttons_26
+  - first:
+      213: 3882321571291219788
+    second: Medieval Pixel Art Game Buttons_27
+  - first:
+      213: -1912457256917316188
+    second: Medieval Pixel Art Game Buttons_28
+  - first:
+      213: 8803361399127451889
+    second: Medieval Pixel Art Game Buttons_29
+  - first:
+      213: 1811027628851953317
+    second: Medieval Pixel Art Game Buttons_30
+  - first:
+      213: 1843177702901212968
+    second: Medieval Pixel Art Game Buttons_31
+  - first:
+      213: -2365697833290061814
+    second: Medieval Pixel Art Game Buttons_32
+  - first:
+      213: 1123655175445992479
+    second: Medieval Pixel Art Game Buttons_33
+  - first:
+      213: -8786452087658284128
+    second: Medieval Pixel Art Game Buttons_34
+  - first:
+      213: 7800911610093891809
+    second: Medieval Pixel Art Game Buttons_35
+  - first:
+      213: -2142196444094536254
+    second: Medieval Pixel Art Game Buttons_36
+  - first:
+      213: 8762898047471110085
+    second: Medieval Pixel Art Game Buttons_37
+  - first:
+      213: 7828915012682953006
+    second: Medieval Pixel Art Game Buttons_38
+  - first:
+      213: -6229836413812128828
+    second: Medieval Pixel Art Game Buttons_39
+  - first:
+      213: -5203678633927718138
+    second: Medieval Pixel Art Game Buttons_40
+  - first:
+      213: -4382567979520769204
+    second: Medieval Pixel Art Game Buttons_41
+  - first:
+      213: -3322992095368517390
+    second: Medieval Pixel Art Game Buttons_42
+  - first:
+      213: -4518699649106660006
+    second: Medieval Pixel Art Game Buttons_43
+  - first:
+      213: 3455850915806111657
+    second: Medieval Pixel Art Game Buttons_44
+  - first:
+      213: 5765120322298681299
+    second: Medieval Pixel Art Game Buttons_45
+  - first:
+      213: 6699658336071610398
+    second: Medieval Pixel Art Game Buttons_46
+  - first:
+      213: -659417483461241525
+    second: Medieval Pixel Art Game Buttons_47
+  - first:
+      213: 2546612082353706175
+    second: Medieval Pixel Art Game Buttons_48
+  - first:
+      213: -5960483120799336010
+    second: Medieval Pixel Art Game Buttons_49
+  - first:
+      213: 4997833636379820767
+    second: Medieval Pixel Art Game Buttons_50
+  - first:
+      213: 7920926502158418601
+    second: Medieval Pixel Art Game Buttons_51
+  - first:
+      213: 4596977269532690402
+    second: Medieval Pixel Art Game Buttons_52
+  - first:
+      213: -3993671948641976984
+    second: Medieval Pixel Art Game Buttons_53
+  - first:
+      213: -853828329902736722
+    second: Medieval Pixel Art Game Buttons_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval Pixel Art Game Buttons_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 82
+        width: 1437
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15161610438996f40800000000000000
+      internalID: 5722272150679806289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Pixel Art Game Buttons_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 440
+        width: 1437
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e439130769eaec740800000000000000
+      internalID: 5174264983045903182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2a8c2c2826d31a1c1a5f3431be404af4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Medieval Pixel Art Game Buttons_0: 5722272150679806289
+      Medieval Pixel Art Game Buttons_1: 5174264983045903182
+      Medieval Pixel Art Game Buttons_10: -7507956322547378007
+      Medieval Pixel Art Game Buttons_11: -8920648934358110610
+      Medieval Pixel Art Game Buttons_12: -4104750589460059451
+      Medieval Pixel Art Game Buttons_13: 5233160356209838090
+      Medieval Pixel Art Game Buttons_14: 1326975129760789185
+      Medieval Pixel Art Game Buttons_15: -8683421418989114410
+      Medieval Pixel Art Game Buttons_16: 2918721237353336392
+      Medieval Pixel Art Game Buttons_17: 647455575309126549
+      Medieval Pixel Art Game Buttons_18: -416518240065763834
+      Medieval Pixel Art Game Buttons_19: -6265646975716552406
+      Medieval Pixel Art Game Buttons_2: 5209298239998524013
+      Medieval Pixel Art Game Buttons_20: -940889232638780620
+      Medieval Pixel Art Game Buttons_21: -3789670356356214105
+      Medieval Pixel Art Game Buttons_22: -9089411061674379600
+      Medieval Pixel Art Game Buttons_23: -5456234792135458656
+      Medieval Pixel Art Game Buttons_24: 7042203157320507640
+      Medieval Pixel Art Game Buttons_25: 675703076176148941
+      Medieval Pixel Art Game Buttons_26: 4100568348764059918
+      Medieval Pixel Art Game Buttons_27: 3882321571291219788
+      Medieval Pixel Art Game Buttons_28: -1912457256917316188
+      Medieval Pixel Art Game Buttons_29: 8803361399127451889
+      Medieval Pixel Art Game Buttons_3: -3304591795544848288
+      Medieval Pixel Art Game Buttons_30: 1811027628851953317
+      Medieval Pixel Art Game Buttons_31: 1843177702901212968
+      Medieval Pixel Art Game Buttons_32: -2365697833290061814
+      Medieval Pixel Art Game Buttons_33: 1123655175445992479
+      Medieval Pixel Art Game Buttons_34: -8786452087658284128
+      Medieval Pixel Art Game Buttons_35: 7800911610093891809
+      Medieval Pixel Art Game Buttons_36: -2142196444094536254
+      Medieval Pixel Art Game Buttons_37: 8762898047471110085
+      Medieval Pixel Art Game Buttons_38: 7828915012682953006
+      Medieval Pixel Art Game Buttons_39: -6229836413812128828
+      Medieval Pixel Art Game Buttons_4: -7080026174242702768
+      Medieval Pixel Art Game Buttons_40: -5203678633927718138
+      Medieval Pixel Art Game Buttons_41: -4382567979520769204
+      Medieval Pixel Art Game Buttons_42: -3322992095368517390
+      Medieval Pixel Art Game Buttons_43: -4518699649106660006
+      Medieval Pixel Art Game Buttons_44: 3455850915806111657
+      Medieval Pixel Art Game Buttons_45: 5765120322298681299
+      Medieval Pixel Art Game Buttons_46: 6699658336071610398
+      Medieval Pixel Art Game Buttons_47: -659417483461241525
+      Medieval Pixel Art Game Buttons_48: 2546612082353706175
+      Medieval Pixel Art Game Buttons_49: -5960483120799336010
+      Medieval Pixel Art Game Buttons_5: -8904560516772453606
+      Medieval Pixel Art Game Buttons_50: 4997833636379820767
+      Medieval Pixel Art Game Buttons_51: 7920926502158418601
+      Medieval Pixel Art Game Buttons_52: 4596977269532690402
+      Medieval Pixel Art Game Buttons_53: -3993671948641976984
+      Medieval Pixel Art Game Buttons_54: -853828329902736722
+      Medieval Pixel Art Game Buttons_6: -8024400357752695064
+      Medieval Pixel Art Game Buttons_7: 3265626562579486087
+      Medieval Pixel Art Game Buttons_8: 7654557171360404009
+      Medieval Pixel Art Game Buttons_9: -8465581914232272237
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

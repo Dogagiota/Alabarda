@@ -23,30 +23,32 @@ public class Vida : MonoBehaviour
 
         if (vidaAtual <= 0)
         {
-            Morrer();
+            Debug.Log(gameObject.name + " morreu");
+            Morrer(gameObject.name);
         }
     }
 
-    void Morrer()
+    void Morrer(string nome)
     {
         morto = true;
-
-        if (gameObject.name == "Guilherme")
+        Debug.Log(nome);
+        if (nome == "corpo_p")
         {
+             TelaMorte telaMorte = FindAnyObjectByType<TelaMorte>();
+
+            if (telaMorte != null)
+            {
+                telaMorte.MostrarTelaMorte();
+            }
+        }
+        else
+        {
+           
             TelaWin telaWin = FindAnyObjectByType<TelaWin>();
 
             if (telaWin != null)
             {
                 telaWin.MostrarTelaWin();
-            }
-        }
-        else
-        {
-            TelaMorte telaMorte = FindAnyObjectByType<TelaMorte>();
-
-            if (telaMorte != null)
-            {
-                telaMorte.MostrarTelaMorte();
             }
         }
 

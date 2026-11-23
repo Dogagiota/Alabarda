@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 08cf9103be7b26e898c87dd21d5fffc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7851335885473655302
+    second: Medieval Pixel Dialogue Panels_0
+  - first:
+      213: 8215332380243961177
+    second: Medieval Pixel Dialogue Panels_1
+  - first:
+      213: 7183554124024275453
+    second: Medieval Pixel Dialogue Panels_2
+  - first:
+      213: -5308607271516086524
+    second: Medieval Pixel Dialogue Panels_3
+  - first:
+      213: 5587331967615438018
+    second: Medieval Pixel Dialogue Panels_4
+  - first:
+      213: -7696884463521891369
+    second: Medieval Pixel Dialogue Panels_5
+  - first:
+      213: -342758381561959108
+    second: Medieval Pixel Dialogue Panels_6
+  - first:
+      213: 8324729139110375983
+    second: Medieval Pixel Dialogue Panels_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval Pixel Dialogue Panels_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 743
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a2fe1c36c85fc60800000000000000
+      internalID: 7851335885473655302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Pixel Dialogue Panels_1
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 765
+        width: 756
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955a43ce549b20270800000000000000
+      internalID: 8215332380243961177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Pixel Dialogue Panels_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 505
+        width: 735
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f5a3110d90456b0800000000000000
+      internalID: -5308607271516086524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Pixel Dialogue Panels_4
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 507
+        width: 753
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc07e352d03a8d40800000000000000
+      internalID: 5587331967615438018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Pixel Dialogue Panels_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 743
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbfd8a3c5c2f2590800000000000000
+      internalID: -7696884463521891369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Pixel Dialogue Panels_6
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 253
+        width: 757
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d263761174e3bf0800000000000000
+      internalID: -342758381561959108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Pixel Dialogue Panels_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 9
+        width: 949
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f227404bb01678370800000000000000
+      internalID: 8324729139110375983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0375b21c066df0e7bb8f16595db693d4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Medieval Pixel Dialogue Panels_0: 7851335885473655302
+      Medieval Pixel Dialogue Panels_1: 8215332380243961177
+      Medieval Pixel Dialogue Panels_2: 7183554124024275453
+      Medieval Pixel Dialogue Panels_3: -5308607271516086524
+      Medieval Pixel Dialogue Panels_4: 5587331967615438018
+      Medieval Pixel Dialogue Panels_5: -7696884463521891369
+      Medieval Pixel Dialogue Panels_6: -342758381561959108
+      Medieval Pixel Dialogue Panels_7: 8324729139110375983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

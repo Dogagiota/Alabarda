@@ -1,27 +1,26 @@
+
 using UnityEngine;
 
 public class TelaWin : MonoBehaviour
 {
-    public GameObject vcGanhou_0;
-    public GameObject vcGanhou_1;
-
-    private SpriteRenderer spriteRenderer0;
-    private SpriteRenderer spriteRenderer1;
+    public GameObject telawin;
+    public GameObject botaomMenu;
 
     void Start()
     {
-        spriteRenderer0 = vcGanhou_0.GetComponent<SpriteRenderer>();
-        spriteRenderer1 = vcGanhou_1.GetComponent<SpriteRenderer>();
-
-        spriteRenderer0.enabled = false;
-        spriteRenderer1.enabled = false;
+        telawin.SetActive(false);
+        botaomMenu.SetActive(false);
     }
 
     public void MostrarTelaWin()
     {
-        spriteRenderer0.enabled = true;
-        spriteRenderer1.enabled = true;
-
+        telawin.SetActive(true);
+        botaomMenu.SetActive(true);
         Time.timeScale = 0f;
+    }
+    public void EsconderTelaWin()
+    {
+        telawin.SetActive(false);
+        botaomMenu.SetActive(false);
     }
 }

@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: b9c21d6f09a60d174b0c9ecdecc28e7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7991193001882087307
+    second: Ornate Fantasy RPG Back Button_0
+  - first:
+      213: 1853406132844636006
+    second: Ornate Fantasy RPG Back Button_1
+  - first:
+      213: 787719599661421296
+    second: Ornate Fantasy RPG Back Button_2
+  - first:
+      213: -2636768103114954405
+    second: Ornate Fantasy RPG Back Button_3
+  - first:
+      213: -2133968267513192350
+    second: Ornate Fantasy RPG Back Button_4
+  - first:
+      213: 851969608396657780
+    second: Ornate Fantasy RPG Back Button_5
+  - first:
+      213: -3091114824393554338
+    second: Ornate Fantasy RPG Back Button_6
+  - first:
+      213: -5076060193579155120
+    second: Ornate Fantasy RPG Back Button_7
+  - first:
+      213: 4696677853319715416
+    second: Ornate Fantasy RPG Back Button_8
+  - first:
+      213: 2454345024752722289
+    second: Ornate Fantasy RPG Back Button_9
+  - first:
+      213: -5059328743724296579
+    second: Ornate Fantasy RPG Back Button_10
+  - first:
+      213: -2874372177018887727
+    second: Ornate Fantasy RPG Back Button_11
+  - first:
+      213: 5284433601846805793
+    second: Ornate Fantasy RPG Back Button_12
+  - first:
+      213: 659093776342966038
+    second: Ornate Fantasy RPG Back Button_13
+  - first:
+      213: -4305721226770458779
+    second: Ornate Fantasy RPG Back Button_14
+  - first:
+      213: -4691517609267044742
+    second: Ornate Fantasy RPG Back Button_15
+  - first:
+      213: 3942661227085248796
+    second: Ornate Fantasy RPG Back Button_16
+  - first:
+      213: -2469191878480889691
+    second: Ornate Fantasy RPG Back Button_17
+  - first:
+      213: 6524584858770904860
+    second: Ornate Fantasy RPG Back Button_18
+  - first:
+      213: 7829845147844159587
+    second: Ornate Fantasy RPG Back Button_19
+  - first:
+      213: -3236463620982812418
+    second: Ornate Fantasy RPG Back Button_20
+  - first:
+      213: -4405101734174449247
+    second: Ornate Fantasy RPG Back Button_21
+  - first:
+      213: 3074017752770652139
+    second: Ornate Fantasy RPG Back Button_22
+  - first:
+      213: 2455708848913366249
+    second: Ornate Fantasy RPG Back Button_23
+  - first:
+      213: 3139539145955422755
+    second: Ornate Fantasy RPG Back Button_24
+  - first:
+      213: 2580252397046270441
+    second: Ornate Fantasy RPG Back Button_25
+  - first:
+      213: 1019645615018898041
+    second: Ornate Fantasy RPG Back Button_26
+  - first:
+      213: 3047542997703170016
+    second: Ornate Fantasy RPG Back Button_27
+  - first:
+      213: -5778945612004795384
+    second: Ornate Fantasy RPG Back Button_28
+  - first:
+      213: -1147375109277150519
+    second: Ornate Fantasy RPG Back Button_29
+  - first:
+      213: 6747595445939189579
+    second: Ornate Fantasy RPG Back Button_30
+  - first:
+      213: 7246027331690548864
+    second: Ornate Fantasy RPG Back Button_31
+  - first:
+      213: 4285144208026965083
+    second: Ornate Fantasy RPG Back Button_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ornate Fantasy RPG Back Button_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 1774
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fe4c032bb66ee60800000000000000
+      internalID: 7991193001882087307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9209ca3bb65be71c6868c43ab6419c97
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ornate Fantasy RPG Back Button_0: 7991193001882087307
+      Ornate Fantasy RPG Back Button_1: 1853406132844636006
+      Ornate Fantasy RPG Back Button_10: -5059328743724296579
+      Ornate Fantasy RPG Back Button_11: -2874372177018887727
+      Ornate Fantasy RPG Back Button_12: 5284433601846805793
+      Ornate Fantasy RPG Back Button_13: 659093776342966038
+      Ornate Fantasy RPG Back Button_14: -4305721226770458779
+      Ornate Fantasy RPG Back Button_15: -4691517609267044742
+      Ornate Fantasy RPG Back Button_16: 3942661227085248796
+      Ornate Fantasy RPG Back Button_17: -2469191878480889691
+      Ornate Fantasy RPG Back Button_18: 6524584858770904860
+      Ornate Fantasy RPG Back Button_19: 7829845147844159587
+      Ornate Fantasy RPG Back Button_2: 787719599661421296
+      Ornate Fantasy RPG Back Button_20: -3236463620982812418
+      Ornate Fantasy RPG Back Button_21: -4405101734174449247
+      Ornate Fantasy RPG Back Button_22: 3074017752770652139
+      Ornate Fantasy RPG Back Button_23: 2455708848913366249
+      Ornate Fantasy RPG Back Button_24: 3139539145955422755
+      Ornate Fantasy RPG Back Button_25: 2580252397046270441
+      Ornate Fantasy RPG Back Button_26: 1019645615018898041
+      Ornate Fantasy RPG Back Button_27: 3047542997703170016
+      Ornate Fantasy RPG Back Button_28: -5778945612004795384
+      Ornate Fantasy RPG Back Button_29: -1147375109277150519
+      Ornate Fantasy RPG Back Button_3: -2636768103114954405
+      Ornate Fantasy RPG Back Button_30: 6747595445939189579
+      Ornate Fantasy RPG Back Button_31: 7246027331690548864
+      Ornate Fantasy RPG Back Button_32: 4285144208026965083
+      Ornate Fantasy RPG Back Button_4: -2133968267513192350
+      Ornate Fantasy RPG Back Button_5: 851969608396657780
+      Ornate Fantasy RPG Back Button_6: -3091114824393554338
+      Ornate Fantasy RPG Back Button_7: -5076060193579155120
+      Ornate Fantasy RPG Back Button_8: 4696677853319715416
+      Ornate Fantasy RPG Back Button_9: 2454345024752722289
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
